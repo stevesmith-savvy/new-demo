@@ -18,7 +18,7 @@ agents:
 
 # Finance Skills — Router 
 
-This is QA manual sync testing. Trial 1. This plugin bundles **2 finance skills** (this router is the 3rd folder under `finance/skills/`). Each skill is self-contained.
+This is QA manual sync testing. Trial 2. 22 june. This plugin bundles **2 finance skills** (this router is the 3rd folder under `finance/skills/`). Each skill is self-contained.
 
 ## Routing table
 
